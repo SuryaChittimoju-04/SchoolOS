@@ -1,0 +1,7 @@
+{
+  "name": "School Marketing OS",
+  "description": "An AI-powered digital marketing automation platform for schools to generate branded posters and event posts with consistency.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
